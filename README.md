@@ -1,2 +1,2 @@
 # QA-automation-practice
-first step to becoming automation engineer
+First step becoming an automation engineer
